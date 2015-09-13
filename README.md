@@ -4,8 +4,8 @@
  
  
  Function about:
-                Insert 
-                Delete 
+                1.Insert 
+                2.Delete 
                 Get(Iterative & Recursive Version) 
                 Equivalence 
                 LevelOrder 
